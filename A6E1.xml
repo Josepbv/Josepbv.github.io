@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Feed sobre naranjas</title>
+		<link>https://josepbv.github.io/</link>
+		<description>Información al día sobre las mejores naranjas.</description>
+		<language>es-ES</language>
+		<item>
+			<title>Variedades</title>
+			<link>https://josepbv.github.io/TiposNaranjas.html</link>
+			<description>Aquí se pueden encontrar los distintos tipos y variedades de naranjas que existen.</description>
+		</item>
+		<item>
+			<title>Blog</title>
+			<link>https://josepbv.github.io/BlogNoticias.html</link>
+			<description>Blog donde estar informado de las últimas novedades sobre las naranjas.</description>
+		</item>
+	</channel>
+</rss>
